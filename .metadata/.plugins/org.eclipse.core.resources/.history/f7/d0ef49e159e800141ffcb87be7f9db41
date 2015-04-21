@@ -9,15 +9,12 @@ public class Zoo {
 		
 		myFrog.makeSound();
 		myFrog.hop(3);
-		System.out.println();
 		
 		myBird.makeSound();
 		myBird.buildNest("tree");
-		System.out.println();
 		
 		myLion.makeSound();
 		myLion.huntForFood("antelope");
-		System.out.println();
 	}
 
 }

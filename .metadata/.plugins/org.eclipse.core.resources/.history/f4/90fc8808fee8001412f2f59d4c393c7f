@@ -18,9 +18,6 @@ public class Zoo {
 		myLion.makeSound();
 		myLion.huntForFood("antelope");
 		System.out.println();
-		
-		Frog myOtherFrog = new Frg(); //intentional error
-		myOtherFrog.makeSound();
 	}
 
 }
